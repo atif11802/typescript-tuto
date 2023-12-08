@@ -1,17 +1,12 @@
 {
-	"name": "typescript-tutorial",
-	"version": "1.0.0",
-	"description": "",
-	"main": "src/app.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"watch": "tsc -w src/app.ts",
-		"start": "lite-server src/app.ts"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"devDependencies": {
-		"lite-server": "^2.6.1"
-	}
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
