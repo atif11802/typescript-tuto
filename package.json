@@ -5,7 +5,8 @@
 	"main": "src/app.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "lite-server"
+		"watch": "tsc -w src/app.ts",
+		"start": "lite-server src/app.ts"
 	},
 	"keywords": [],
 	"author": "",
